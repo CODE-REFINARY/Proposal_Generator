@@ -1,0 +1,12 @@
+Babel==2.13.1
+docxcompose==1.4.0
+lxml==4.9.3
+psycopg2==2.9.9
+pypdf==4.0.1
+python-decouple==3.8
+python-docx==1.1.0
+six==1.16.0
+typing_extensions==4.8.0
+unoserver==2.0
+python-daemon==3.0.1
+

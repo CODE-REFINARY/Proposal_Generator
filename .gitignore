@@ -1,0 +1,9 @@
+final*
+.idea/
+.DS_Store
+SITE*
+.~lock*
+.env
+.env
+myvenv/
+/pdb_files/
